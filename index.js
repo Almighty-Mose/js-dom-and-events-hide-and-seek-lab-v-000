@@ -5,3 +5,8 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   return document.querySelector('#nested .target');
 }
+
+function increaseRankBy(n) {
+  let element = document.querySelector('.ranked-list li');
+  for(i = 0,)
+}
